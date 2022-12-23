@@ -1,0 +1,11 @@
+.form-group {
+    width: 350px;
+    align-items: center;
+    margin: 0 auto;
+}
+#btn-login{
+    width: 100px;
+    margin: 0 auto;
+    align-items: center;
+    display: block;
+}

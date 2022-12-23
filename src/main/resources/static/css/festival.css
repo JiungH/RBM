@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.searchrow {
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+}
+
+.submit_button {
+    border: solid 1px lightblue;
+    margin-top: 10px;
+    cursor: pointer;
+}

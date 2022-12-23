@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+h2 {
+    text-align: center;
+    margin-top: 10%;
+}
+
+.table-container {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: 100px auto auto auto;
+}
+
+.table-container2 {
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    margin: 100px auto auto auto;
+}
+
+table {
+    border-collapse: collapse;
+    border: solid 1px lightblue;
+}
+
+th, td, .button {
+    padding: 5px;
+}
+
+.submit_button {
+    border: solid 1px lightblue;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.searchWordBar {
+    margin-left: 45%;
+}
+
+#check_table{
+    margin: 100px auto;
+    text-align: center;
+}
+.message-box{
+    border-collapse: collapse;
+    border: solid 1px lightblue;
+}

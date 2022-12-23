@@ -1,0 +1,46 @@
+
+form{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+table{
+    width: 500px;
+}
+tr{
+    height: 50px;
+}
+td input{
+    width: 100%;
+    border-radius: 5px;
+}
+td span{
+    padding-top: 10px;
+    font-size: 13px;
+}
+#joinSubmit{
+
+    background-color: #339dff;
+    border: solid 1px lightblue;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+}
+#joinSubmit:hover{
+    background-color: #323dff;
+}
+#search-btn{
+    background-color: #339dff;
+    border-radius: 5px;
+    color: white;
+    border: solid 1px lightblue;
+    cursor: pointer;
+}
+
+#search-btn:hover{
+    background-color: #323dff;
+}
+#submit_block{
+    text-align: center;
+}
